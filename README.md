@@ -2,7 +2,7 @@
 
 **Governance, Risk & Compliance | Nigerian Data Protection Law | ISO 27001 | Microsoft Security**
 
----
+
 
 ## About This Portfolio
 
