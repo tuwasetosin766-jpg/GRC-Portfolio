@@ -82,8 +82,6 @@ A structured risk register covering seven identified risks across the chatbot sy
 
 - **Microsoft SC-900** — Security, Compliance & Identity Fundamentals *(In Progress — Microsoft Learn, all learning path assessments passed)*
 
-**Planned certification roadmap:**
-SC-900 → CompTIA Security+ → SC-400 → CISM → CRISC → AIGP (AI Governance Professional)
 
 ---
 
